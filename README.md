@@ -2,7 +2,15 @@
 - 👀 I’m interested in CyberSecurity, Data Science, Research and Development.
 - 🌱 I’m currently learning Master of Science, Data Science.
 - 💞️ I’m looking to collaborate on research projects to explore, contribute and learn.
-- 📫 How to reach me:
+
+## 🛠 My Skills include...
+- Python 🐍
+- R 🖥️
+- Data Visualization: Tableau, Excel, Seaborn, Matplotlib and ggplot2 📈
+- Cloud Computing: AWS and Azure 💭
+- Machine Learning 🤖
+- NLP 🔊🗣️
+- SQL and NoSQL 🗃️
 
 ## 🔗 Links
 
