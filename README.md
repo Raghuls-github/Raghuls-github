@@ -19,10 +19,10 @@
   <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a> &nbsp;&nbsp;
 
-<!---<a href="mailto:raghul1785@gmail.com">
+<a href="mailto:raghul1785@gmail.com">
   <img alt="Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a> &nbsp;&nbsp;--->
-<!---
-Raghuls-github/Raghuls-github is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</a> &nbsp;&nbsp;
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Raghuls-github&show_icons=true&theme=radical&count_private=true" alt="my github stats" width="420"/>&nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghuls-github&langs_count=4&layout=compact&theme=radical&count_private=true" alt="languages" height="165">
+</p>
