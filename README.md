@@ -1,9 +1,10 @@
 - 👋 Hi, I’m Raghul V @Raghuls-github
 - 👀 I’m interested in CyberSecurity, Data Science, Research and Development.
-- 🌱 I’m currently learning Master of Science, Data Science.
+- 🌱 I’m a Security Researcher @ ZERON
 - 💞️ I’m looking to collaborate on research projects to explore, contribute and learn.
 
 ## 🛠 My Skills include...
+-CyberSecurity (SOAR, SIEM, Threat Intelligence)...
 - Python 🐍
 - R 🖥️
 - Data Visualization: Tableau, Excel, Seaborn, Matplotlib and ggplot2 📈
